@@ -7,6 +7,8 @@
 // @license      MIT
 // @match        https://labs.j-novel.club/embed/v2/*
 // @match        https://api.jnc-nina.eu/embed/v2/*
+// @match        https://jnc-nina.eu/*
+// @match        https://j-novel.club/*
 // @icon         https://play-lh.googleusercontent.com/7nPAJjEXNWjxfQtG3JwwwEXGXm4Tr6ncoOkhzx27omrBQ8v1MmmEWGFZfxwcACX7iEo=w480-h960
 // @grant        GM_download
 // @run-at       document-idle
